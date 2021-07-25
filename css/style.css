@@ -60,6 +60,7 @@ body{
     height: 48px;
     width: 153px;
     border-radius: 5px;
+    margin-bottom: 10px;
 }
 .browse-1:hover{
     background-color: green;
@@ -74,6 +75,7 @@ body{
     height: 48px;
     width: 175px;
     border-radius: 5px;
+    margin-bottom: 10px;
 }
 
 .home-info{
@@ -145,7 +147,6 @@ body{
 
 /* Footer */
 .footer-main{
-
     padding-top: 80px;
     padding-bottom: 10px;
 }
